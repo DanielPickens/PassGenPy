@@ -35,4 +35,4 @@ Usage: python3 passgen.py
 ```
 
 
-![alt tag](https://github.com/DanielPickens/PassGenPy/blob/main/py1img_tools.png)
+![alt tag](https://github.com/DanielPickens/PassGenPy/blob/main/passgengui.png)
