@@ -34,8 +34,5 @@ optional arguments:
 Usage: python3 passgen.py 
 ```
 
-![alt tag](https://emreovunc.com/projects/python_synflood_attack_cmd.png)
-
-![alt tag](https://emreovunc.com/projects/Syn_Flood_01.png)
 
 ![alt tag](https://github.com/DanielPickens/PassGenPy/blob/main/py1img_tools.png)
