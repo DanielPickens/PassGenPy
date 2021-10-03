@@ -25,9 +25,6 @@ cd Python-SYN-Flood-Attack-Tool
 python3 passgen.py 
 
 ```
-```
-usage: py3_synflood_cmd.py [-h] [--target TARGET] [--port PORT]
-                           [--count COUNT] [--version]
 
 optional arguments:
   -h, --help            show this help message and exit
@@ -38,7 +35,7 @@ optional arguments:
                         number of packets
   --version, -v         show program's version number and exit
 
-Usage: python3 py3_synflood_cmd.py -t 10.20.30.40 -p 8080 -c 1
+Usage: python3 passgen.py -t 10.20.30.40 -p 8080 -c 1
 ```
 
 ![alt tag](https://emreovunc.com/projects/python_synflood_attack_cmd.png)
