@@ -16,7 +16,7 @@ apt install python3
 
 ```
 git clone https://github.com/DanielPickens/PassGenPy.git
-cd Python-SYN-Flood-Attack-Tool
+cd PassGenPy
 ```
 
 ## Usage
