@@ -1,4 +1,4 @@
-# Python2/3 PassGen tool
+# Python2/3 PassGen GUI tool
 
 
 Python PassGen GUI Tool
