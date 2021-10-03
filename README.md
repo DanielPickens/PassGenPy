@@ -25,17 +25,13 @@ cd Python-SYN-Flood-Attack-Tool
 python3 passgen.py 
 
 ```
-
+```
 optional arguments:
   -h, --help            show this help message and exit
-  --target TARGET, -t TARGET
-                        target IP address
-  --port PORT, -p PORT  target port number
-  --count COUNT, -c COUNT
-                        number of packets
+  --
   --version, -v         show program's version number and exit
 
-Usage: python3 passgen.py -t 10.20.30.40 -p 8080 -c 1
+Usage: python3 passgen.py 
 ```
 
 ![alt tag](https://emreovunc.com/projects/python_synflood_attack_cmd.png)
