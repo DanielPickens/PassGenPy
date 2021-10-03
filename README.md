@@ -1,34 +1,29 @@
-# Python2/3-SYN-Flood-Attack-Tool
+# Python2/3 PassGen tool
 
-[![](https://img.shields.io/github/issues/EmreOvunc/Python-SYN-Flood-Attack-Tool)](https://github.com/EmreOvunc/Python-SYN-Flood-Attack-Tool/issues)
-[![](https://img.shields.io/github/stars/EmreOvunc/Python-SYN-Flood-Attack-Tool)](https://github.com/EmreOvunc/Python-SYN-Flood-Attack-Tool/stargazers)
-[![](https://img.shields.io/github/forks/EmreOvunc/Python-SYN-Flood-Attack-Tool)](https://github.com/EmreOvunc/Python-SYN-Flood-Attack-Tool/network/members)
 
-Python SYN Flood Attack Tool
+Python PassGen GUI Tool
 
-You can start SYN Flood attack with this tool.
+You can start a Password Generation process with this tool.
 
 Simple and efficient.
 
 ## Dependencies
 ```
-apt install python-scapy
-apt install python3-scapy
+apt install python3
 ```
 
 ## Installation
 
 ```
-git clone https://github.com/EmreOvunc/Python-SYN-Flood-Attack-Tool.git
+git clone https://github.com/DanielPickens/PassGenPy.git
 cd Python-SYN-Flood-Attack-Tool
 ```
 
 ## Usage
 
 ```
-python3 py3_synflood_cmd.py -t 10.20.30.40 -p 8080 -c 5
-python3 py3_SYN-Flood.py
-python SYN-Flood.py
+python3 passgen.py 
+
 ```
 ```
 usage: py3_synflood_cmd.py [-h] [--target TARGET] [--port PORT]
