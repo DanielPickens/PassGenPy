@@ -31,7 +31,7 @@ optional arguments:
   --
   --version, -v         show program's version number and exit
 
-Usage: python3 passgen.py 
+ 
 ```
 
 
