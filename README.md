@@ -1,2 +1,0 @@
-# PassGenPy
-Password Generator GUI 
