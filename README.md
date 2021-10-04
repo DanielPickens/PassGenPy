@@ -22,7 +22,9 @@ cd PassGenPy
 ## Usage
 
 ```
-python3 passgen.py 
+1.Add file to your root directory
+2.Open powershell
+3.python3 passgen.py 
 
 ```
 ```
